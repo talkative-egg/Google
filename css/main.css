@@ -3,7 +3,32 @@ body{
     margin: auto;
 }
 
-.logo{
+#navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+
+#navbar ul{
+    display: inline;
+}
+
+#navbar ul li{
+    display: inline;
+}
+
+#navbar-left{
+    float: left;
+    margin-top: 0px;
+}
+
+#navbar-right{
+    float: right;
+    margin-top: 0px;
+}
+
+#logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -12,7 +37,7 @@ body{
     height: auto;
 }
 
-.searchbar .search{
+.searchbar #search{
     display: block;
     margin-left: auto;
     margin-right: auto;

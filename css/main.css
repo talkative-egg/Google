@@ -142,14 +142,6 @@ footer ul .middle{
     padding: 16px 18px;
 }
 
-footer ul li p{
-    display: block;
-    text-align: center;
-    padding: 16px 18px;
-    color: black;
-    font-size: 16px;
-}
-
 footer a:hover{
     text-decoration: underline;
 }
